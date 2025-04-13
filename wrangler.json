@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "steam-judger-1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a8784240-8cd5-4093-8f89-438f25710793",
+      "database_name": "Steam-Judger-Database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
